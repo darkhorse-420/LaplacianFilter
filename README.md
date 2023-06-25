@@ -29,6 +29,23 @@ Laplacian Image
 <img width="484" alt="Screenshot 2023-05-28 at 11 38 40 PM" src="https://github.com/darkhorse-420/LaplacianFilter/assets/97759553/66e99ed8-ed44-4200-9786-99c4be226399">
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <b> Laplacian Filtering in Frequency Domain <b/>
 
 
